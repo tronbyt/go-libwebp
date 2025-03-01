@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/ingmarstein/go-libwebp/test/util"
-	"github.com/ingmarstein/go-libwebp/webp"
+	"github.com/tronbyt/go-libwebp/test/util"
+	"github.com/tronbyt/go-libwebp/webp"
 )
 
 func TestDecodeAnimationInfo(t *testing.T) {

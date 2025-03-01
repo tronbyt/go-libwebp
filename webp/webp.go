@@ -3,6 +3,7 @@
 package webp
 
 /*
+#cgo CFLAGS: -I/opt/homebrew/include
 #cgo LDFLAGS: -lwebp -lm -lsharpyuv
 
 #include <stdlib.h>

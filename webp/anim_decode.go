@@ -1,7 +1,8 @@
 package webp
 
 /*
-#cgo LDFLAGS: -lwebpdemux
+#cgo CFLAGS: -I/opt/homebrew/include
+#cgo LDFLAGS: -L/opt/homebrew/lib -lwebpdemux
 
 #include <stdlib.h>
 #include <webp/demux.h>

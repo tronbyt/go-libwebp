@@ -1,4 +1,4 @@
-repo = github.com/ingmarstein/go-libwebp
+repo = github.com/tronbyt/go-libwebp
 build_dir = /tmp
 cur_dir = $(shell pwd)
 libwebp_so = ${LIBWEBP_PREFIX}/lib/libwebp.so

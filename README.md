@@ -1,7 +1,7 @@
 go-libwebp
 ==========
 
-[![GoDoc](https://godoc.org/github.com/ingmarstein/go-libwebp/webp?status.svg)](https://godoc.org/github.com/ingmarstein/go-libwebp/webp)
+[![GoDoc](https://godoc.org/github.com/tronbyt/go-libwebp/webp?status.svg)](https://godoc.org/github.com/tronbyt/go-libwebp/webp)
 
 A implementation of Go binding for [libwebp](https://developers.google.com/speed/webp/docs/api).
 
@@ -21,8 +21,8 @@ The [examples](./examples) directory contains example codes and images.
 package main
 
 import (
-	"github.com/ingmarstein/go-libwebp/test/util"
-	"github.com/ingmarstein/go-libwebp/webp"
+	"github.com/tronbyt/go-libwebp/test/util"
+	"github.com/tronbyt/go-libwebp/webp"
 )
 
 func main() {
@@ -53,8 +53,8 @@ import (
 	"bufio"
 	"image"
 
-	"github.com/ingmarstein/go-libwebp/test/util"
-	"github.com/ingmarstein/go-libwebp/webp"
+	"github.com/tronbyt/go-libwebp/test/util"
+	"github.com/tronbyt/go-libwebp/webp"
 )
 
 func main() {
@@ -87,8 +87,8 @@ import (
 	"image"
 	"time"
 
-	"github.com/ingmarstein/go-libwebp/test/util"
-	"github.com/ingmarstein/go-libwebp/webp"
+	"github.com/tronbyt/go-libwebp/test/util"
+	"github.com/tronbyt/go-libwebp/webp"
 )
 
 func main() {
